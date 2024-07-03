@@ -1,0 +1,1 @@
+// Allow users to view a list of all their journal entries.

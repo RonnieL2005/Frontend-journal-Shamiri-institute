@@ -1,0 +1,1 @@
+// Users should be able to categorize their entries e.g. Personal, Work, Travel, etc.
